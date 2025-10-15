@@ -1,0 +1,7 @@
+8	git checkout -b nome_da_branch		Cria e muda para uma nova branch
+
+9	git push origin nome_da_branch 		Envia o código para o GitHub na nova branch
+
+10 	git branch -m novo-nome			Renomeia a branch
+
+11 	git log					Histórico 
